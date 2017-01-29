@@ -1,0 +1,16 @@
+*.zip
+*.bak
+*.bck
+*.raw
+*.log
+*.dcm
+*.kicad_pcb-bak
+*autosave*
+*cache*
+git.notes.txt
+STM32F0-Servo.csv
+STM32F0-Servo.cmp
+STM32F0-Servo.xml
+STM32F0-Servo-BOM.txt
+BOM-V2.1.xls
+Backup/*

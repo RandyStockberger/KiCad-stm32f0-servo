@@ -1,0 +1,25 @@
+Corrections/Changes for Version 2.1
+- Eliminate servo signal resistor
+- Add programming header
+- Correct servo pin order
+- Edit STM32 footprint
+- Edit large inductor footprint
+- Reduce card footprint to about 99mm x 65mm
+- Label servo pins
+- Widen traces
+- Add ground plane
+- Move DCC resistor
+
+Corrections/Changes for Version 2.2
+- Remove DCC decode circuits
+- Remove crystal support circuits
+- Add MOSFET based frog control
+- Add SERVO signal level shift
+- Move LED2B and LED3A from PA13/PA14 (SWD pins)
+- Add protection diode to V5 input
+- Edit footprint for diodes
+- Add a debug LED
+- Merge LED and Button connectors
+- Add MOSFET switch to power down the individual servos
+- Add reset button
+- Replace the button debounce 100 ohm pulldown with a 1K ohm pulldown
