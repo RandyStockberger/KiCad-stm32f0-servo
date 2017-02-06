@@ -13,5 +13,6 @@ STM32F0-Servo.cmp
 STM32F0-Servo.xml
 STM32F0-Servo-BOM.txt
 BOM-V2.1.xls
+*.svg
 Backup/*
-Gerbers/*
+Gerbers*/*

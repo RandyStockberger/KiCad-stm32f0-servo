@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name LocalLibrary)(type KiCad)(uri /home/randy/Dropbox/KiCad/Footprints/LocalLibrary.pretty)(options "")(descr ""))
+  (lib (name rls_misc)(type KiCad)(uri /home/randy/Dropbox/KiCad/Footprints/rls_misc.pretty)(options "")(descr ""))
+  (lib (name servolibrary)(type KiCad)(uri /home/randy/Dropbox/KiCad/Footprints/servolibrary.pretty)(options "")(descr ""))
+)
